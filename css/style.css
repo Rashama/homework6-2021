@@ -91,7 +91,7 @@ align-items: stretch; /* we dont need to use this because it defult to stresch v
    /*Your code here.*/
    -webkit-animation:logo_grow;
    animation-name: logo_grow;
-   animation-duration: 15s;
+   animation-duration: 5s;
 
 }
 
