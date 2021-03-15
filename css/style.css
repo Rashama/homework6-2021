@@ -17,7 +17,7 @@ header{
   /*Your  code here again.*/
   display: flex;
   flex-direction: column;
-  text-align: center;
+  align-items: center;
 }
 
 /*Requirement 3*/
